@@ -4,6 +4,7 @@ This repo contains starter files and final code for all sections and projects co
 
 Use starter code to start each section, and **final code to compare it with your own code whenever something doesn't work**!
 
+<<<<<<< HEAD
 👇 **_Please read the following Frequently Asked Questions (FAQ) carefully before starting the course_** 👇
 
 ## FAQ
@@ -65,3 +66,5 @@ Use starter code to start each section, and **final code to compare it with your
 ### Q13: Do you accept pull requests?
 
 **A:** No, for the simple reason that I want this repository to contain the _exact_ same code that is shown in the videos. However, please feel free to add an issue if you found one.
+=======
+>>>>>>> d9c6bda974db6086d7760fc3993e4d8217e2cd80
